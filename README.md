@@ -51,7 +51,7 @@ When the temperature reaches or exceeds 31°C, the buzzer turns ON. It remains O
 
 ## Serial Monitor Output
 
-![Water Dispenser Serial Monitor](./waterdisserial.jpeg)
+![Water Dispenser Serial Monitor](./waterdisserial.png)
 
 ## Arduino Code
 
