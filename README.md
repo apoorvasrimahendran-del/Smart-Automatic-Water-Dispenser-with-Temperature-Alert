@@ -45,7 +45,17 @@ The DHT11 sensor continuously reads the surrounding temperature and sends the re
 5. Buzzer Alert
 
 When the temperature reaches or exceeds 31°C, the buzzer turns ON. It remains OFF when the temperature is below the set limit.
-# Code
+## Hardware Connection
+
+![Water Dispenser Hardware](./waterdishard.jpeg)
+
+## Serial Monitor Output
+
+![Water Dispenser Serial Monitor](./waterdisserial.jpeg)
+
+## Arduino Code
+
+[View Arduino Code](./waterdis.ino)
 
 
 # What I Learned
